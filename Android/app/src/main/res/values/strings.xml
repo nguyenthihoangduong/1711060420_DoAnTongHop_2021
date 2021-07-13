@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">thucung</string>
+    <string name="toolBarTitleName">Clothesuit</string>
+    <string name="titleListItems">All products</string>
+    <string name="thongtin">Hệ thống Bệnh Viện Thú Y PetPro được thành lập từ năm 1998, đến nay chúng tôi đã có 5 bệnh viện và 5 PetShop trải dài qua 3 quận: Tân Bình, Tân Phú, Bình Tân.</string>
+    <string name="thongtin1">Mục đích của PetPro là mang đến cho thú cưng một dịch vụ y tế chuyên nghiệp, nhằm nâng cao sức khoẻ cho thú cưng, qua đó khơi gợi lòng yêu thương động vật, kết nối với thiên nhiên…
+Tham vọng của chúng tôi là đưa bệnh viện thú y PetPro ngang tầm với các bệnh viện thú – y trong khu vực châu Á. Để làm được điều này chúng tôi không ngừng học hỏi, không ngừng vươn tới cái hay, cái mới để xây dựng một xã hội ONE HEALTH cho con người và động vật.</string>
+    <string name="thongtin2">Giá trị của chúng tôi được thể hiện qua cách chúng tôi làm việc: tôn trọng khách hàng, yêu thương động vật, tạo động lực gắn kết trong nhân viên và trao cho họ cơ hội để phát triển nghề nghiệp.</string>
+    <string name="thongtin3">Đến với PetPro các bạn sẽ được đáp ứng đầy đủ các dịch vụ mà ít nơi nào có thể thoả mãn được từ tư vấn chăm sóc, nuôi dưỡng, chích ngừa lúc còn non, làm đẹp dạy dỗ lúc trưởng thành, chẩn đoán phòng bệnh lúc về già, chữa trị, phẫu thuật, lưu trú lúc đau yếu, còn đến lúc chia tay với bạn chúng tôi sẽ đưa cún đến nơi an nghỉ cuối cùng. xa hơn nữa nếu các bạn có nhu cầu mang thú cưng đi nước ngoài để học tập, du lịch, định cư chúng tôi cũng lo liệu để cún cưng được chúng sống bên bạn dù bạn có đi đến đâu. Một chu trình được chúng tôi thiết lập cho vòng đời thú cưng không đâu hoàn hảo hơn. Hân hạnh được phục vụ.</string>
+    <string name="lienhe">Hãy Liên Hệ Với Chúng Tôi</string>
+
+    <string name="lienhe1">Thú-Y Petpro 1:</string>
+    <string name="lienhe2">Address:192/7 Phú Thọ Hòa, P. Phú Thọ Hòa, Q. Tân Phú, TP. HCM</string>
+    <string name="lienhe3">Phone:0913 949 041</string>
+    <string name="lienhe4">Facebook:thuypetpro.com.vn</string>
+
+    <string name="lienhe5">Thú-Y Petpro 2:</string>
+    <string name="lienhe6">Address:387-389 Cộng Hòa, P. 13, Q. Tân Bình, TP. HCM</string>
+    <string name="lienhe7">Phone:0917 710 311</string>
+    <string name="lienhe8">Facebook:thuypetpro.com.vn</string>
+
+    <string name="lienhe9">Thú-Y Petpro 3:</string>
+    <string name="lienhe10">Address:111 Trường Chinh, P. 12 Q. Tân Bình TP. HCM</string>
+    <string name="lienhe11">Phone:0916 219 211</string>
+    <string name="lienhe12">Facebook:thuypetpro.com.vn</string>
+
+    <string name="lienhe13">Thú-Y Petpro 4:</string>
+    <string name="lienhe14">Address:216 Nguyễn Thị Tú, P. Bình Hưng Hòa B, Q. Bình Tân, TP. HCM</string>
+    <string name="lienhe15">Phone:0912 219 211</string>
+    <string name="lienhe16">Facebook:thuypetpro.com.vn</string>
+
+    <string name="lienhe17">Thú-Y Petpro 5:</string>
+    <string name="lienhe18">Address:493 Đường Kinh Dương Vương, Khu Phố 6, Phường An Lạc, Quận Bình Tân, TP. HCM</string>
+    <string name="lienhe19">Phone:0911 368 041</string>
+    <string name="lienhe20">Facebook:thuypetpro.com.vn</string>
+
+    <string name="lienhe21">Thú-Y Petpro 6:</string>
+    <string name="lienhe22">Address:383 Đường Nguyễn An Ninh, Khu Phố 6, Phường 9, TP. Vũng Tàu, Bà Rịa – Vũng Tàu</string>
+    <string name="lienhe23">Phone:0919 949 041</string>
+    <string name="lienhe24">Facebook:thuypetpro.com.vn</string>
+
+
+</resources>

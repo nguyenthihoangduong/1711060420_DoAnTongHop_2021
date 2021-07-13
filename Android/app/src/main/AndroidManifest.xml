@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="company.danhy.clothesuit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="thucung"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+
+        <activity android:name=".activity.activity.activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<!--        <activity android:name=".activity.activity.activity.MainActivity" />-->
+        <activity android:name=".activity.activity.activity.ThoiTrangActivity" />
+        <activity android:name=".activity.activity.activity.DungCuHangNgayActivity" />
+        <activity android:name=".activity.activity.activity.ThucAnActivity" />
+        <activity android:name=".activity.activity.activity.SucKhoeActivity" />
+        <activity android:name=".activity.activity.activity.LienHeActivity" />
+        <activity android:name=".activity.activity.activity.ChiTietSanPhamActivity" />
+        <activity android:name=".activity.activity.activity.GiohangActivity" />
+        <activity android:name=".activity.activity.activity.ThongtinkhachhangActivity" />
+        <activity android:name=".activity.activity.activity.DichvuActivity" />
+        <activity android:name=".activity.activity.activity.ThongTinActivity" />
+        <activity android:name=".activity.activity.activity.GioiThieuActivity" />
+
+    </application>
+
+</manifest>
